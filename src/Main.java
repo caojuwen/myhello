@@ -7,5 +7,6 @@ public class Main {
         System.out.println("3333333333");
         System.out.println("4444444444444444");
         System.out.println("555555555555555");
+        System.out.println("666666666666");
     }
 }
